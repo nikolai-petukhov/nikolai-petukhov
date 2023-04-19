@@ -1,34 +1,77 @@
-# Nikolai Petukhov - Frontend Developer
+<!DOCTYPE html>
+<html>
 
-## Skills
-- ![JavaScript](https://marwin1991.github.io/profile-technology-icons/js.svg) JavaScript, ![TypeScript](https://marwin1991.github.io/profile-technology-icons/ts.svg) TypeScript, ![Java](https://marwin1991.github.io/profile-technology-icons/java.svg) Java, ![PHP](https://marwin1991.github.io/profile-technology-icons/php.svg) PHP.
-- ![Angular](https://marwin1991.github.io/profile-technology-icons/angular.svg) Angular, ![React](https://marwin1991.github.io/profile-technology-icons/react.svg) React, ![ExpressJS](https://marwin1991.github.io/profile-technology-icons/express.svg) ExpressJS, ![NestJS](https://marwin1991.github.io/profile-technology-icons/nestjs.svg) NestJS, ![Spring Boot](https://marwin1991.github.io/profile-technology-icons/spring-boot.svg) Spring Boot, ![Laravel](https://marwin1991.github.io/profile-technology-icons/laravel.svg) Laravel.
-- ![SQL](https://marwin1991.github.io/profile-technology-icons/sql.svg) SQL, ![TypeORM](https://marwin1991.github.io/profile-technology-icons/typeorm.svg) TypeORM, ![MySQL](https://marwin1991.github.io/profile-technology-icons/mysql.svg) MySQL, ![PostgreSQL](https://marwin1991.github.io/profile-technology-icons/postgresql.svg) PostgreSQL, ![MongoDB](https://marwin1991.github.io/profile-technology-icons/mongodb.svg) MongoDB, ![Firebase](https://marwin1991.github.io/profile-technology-icons/firebase.svg) Firebase.
-- ![HTML](https://marwin1991.github.io/profile-technology-icons/html.svg) HTML, ![CSS](https://marwin1991.github.io/profile-technology-icons/css.svg) CSS, ![Sass](https://marwin1991.github.io/profile-technology-icons/sass.svg) Sass.
-- ![Git](https://marwin1991.github.io/profile-technology-icons/git.svg) Git, ![GitHub](https://marwin1991.github.io/profile-technology-icons/github.svg) GitHub, ![Heroku](https://marwin1991.github.io/profile-technology-icons/heroku.svg) Heroku.
-- ![Figma](https://marwin1991.github.io/profile-technology-icons/figma.svg) Figma.
-- Communication, teamwork, self-learning, time management, adaptability.
-- English (B1).
+<head>
+    <title>Nikolai Petukhov - Frontend Developer</title>
+    <style>
+        /* Add your custom CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+        }
 
-## Education
-- 2013-2017 Polotsk State University. Software engineer.
-- 2009-2013 Polotsk Trade-Technology College. Software developer.
+        h1 {
+            margin-top: 0;
+        }
 
-## Courses
-- September 2022 - present: Full Stack open 2022. JS-based fullstack web development.
-- August - October 2022: Udemy - M. Schwarzmüller. Understanding TypeScript.
-- April 2022: freeCodeCamp. Responsive Web Design.
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
 
-## Interests
-Web development, Full stack web development.
+        li {
+            margin-bottom: 10px;
+        }
 
-## GitHub
-[GitHub Profile](https://github.com/{your-github-username})
+        .icon {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            margin-right: 8px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
 
-## Contact Information
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/{your-linkedin-username})
+<body>
+    <h1>Nikolai Petukhov - Frontend Developer</h1>
+    <h2>Skills</h2>
+    <ul>
+        <li><img src="https://marwin1991.github.io/profile-technology-icons/javascript.svg" alt="JavaScript"
+                class="icon">JavaScript, TypeScript, Java, PHP.</li>
+        <li><img src="https://marwin1991.github.io/profile-technology-icons/angular.svg" alt="Angular" class="icon">Angular,
+            React, ExpressJS, NestJS, Spring Boot, Laravel.</li>
+        <li><img src="https://marwin1991.github.io/profile-technology-icons/database.svg" alt="SQL" class="icon">SQL,
+            TypeORM, MySQL, PostgreSQL, MongoDB, Firebase.</li>
+        <li><img src="https://marwin1991.github.io/profile-technology-icons/html.svg" alt="HTML" class="icon">HTML,
+            CSS, Sass.</li>
+        <li><img src="https://marwin1991.github.io/profile-technology-icons/git.svg" alt="Git" class="icon">Git,
+            GitHub, Heroku.</li>
+        <li><img src="https://marwin1991.github.io/profile-technology-icons/figma.svg" alt="Figma" class="icon">Figma.</li>
+    </ul>
 
+    <h2>Education</h2>
+    <ul>
+        <li>2013-2017 Polotsk State University. Software engineer.</li>
+        <li>2009-2013 Polotsk Trade-Technology College. Software developer.</li>
+    </ul>
+
+    <h2>Courses</h2>
+    <ul>
+        <li>September 2022 - present: Full Stack open 2022. JS-based fullstack web development.</li>
+        <li>August - October 2022: Udemy - M. Schwarzmüller. Understanding TypeScript.</li>
+        <li>April 2022: freeCodeCamp. Responsive Web Design.</li>
+    </ul>
+
+    <h2>Interests</h2>
+    <p>Web development, Full stack web development.</p>
+
+    <h2>Contact Information</h2>
+    <ul>
+        <li>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank"
+                rel="noopener noreferrer">
+
+</body>
 
 <!--### Hi there 👋-->
 
